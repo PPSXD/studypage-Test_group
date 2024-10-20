@@ -1,9 +1,7 @@
 .boat-img{
     border: 5px solid white;
 }
-.boat-h2{
-    text-align: center; font-size: 3.5rem;
-}
+
 .boat-container{
     display: flex; flex-wrap: wrap; gap: 50px;
 }
